@@ -6,3 +6,7 @@ Dot ranges visuals show the change in different gender equality indicators acros
 Some countries are not represented because they only have one data point available. They are:
 
 <b>Domestic violence:</b> Morocco, Tunisia, Niger, South Africa, Benin, Lesotho, Botswana, Sudan, Eswatini, Guinea, South Sudan
+
+<b>Savings:</b> Djibouti, Libya, Somalia
+
+<b>Female youth literacy:</b> Somalia and South Sudan
