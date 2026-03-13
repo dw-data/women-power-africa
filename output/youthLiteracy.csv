@@ -1,0 +1,316 @@
+REF_AREA_LABEL,OBS_VALUE,TIME_PERIOD,Area
+Somalia,0.658689975738525,1972,youth literacy
+Burkina Faso,0.297809988260269,1975,youth literacy
+Central African Republic,0.361510008573532,1975,youth literacy
+Cameroon,0.742079973220825,1976,youth literacy
+"Egypt, Arab Rep.",0.604730010032654,1976,youth literacy
+Mali,0.505320012569427,1976,youth literacy
+Eswatini,0.985499978065491,1976,youth literacy
+Rwanda,0.749149978160858,1978,youth literacy
+Burundi,0.524940013885498,1979,youth literacy
+Benin,0.399360001087189,1979,youth literacy
+Guinea-Bissau,0.298240005970001,1979,youth literacy
+Comoros,0.791530013084412,1980,youth literacy
+Mozambique,0.392710000276566,1980,youth literacy
+South Africa,0.995630025863647,1980,youth literacy
+Sao Tome and Principe,0.815429985523224,1981,youth literacy
+Morocco,0.532559990882874,1982,youth literacy
+Zimbabwe,0.903919994831085,1982,youth literacy
+"Congo, Rep.",0.896179974079132,1984,youth literacy
+Liberia,0.536779999732971,1984,youth literacy
+Libya,0.820739984512329,1984,youth literacy
+Tunisia,0.729179978370667,1984,youth literacy
+"Egypt, Arab Rep.",0.756569981575012,1986,youth literacy
+Eswatini,1.01436996459961,1986,youth literacy
+Algeria,0.721459984779358,1987,youth literacy
+Malawi,0.697440028190613,1987,youth literacy
+Seychelles,1.01682996749878,1987,youth literacy
+Central African Republic,0.557079970836639,1988,youth literacy
+Cote d'Ivoire,0.631479978561401,1988,youth literacy
+Senegal,0.570659995079041,1988,youth literacy
+Tanzania,0.90327000617981,1988,youth literacy
+Burundi,0.806940019130707,1990,youth literacy
+Cabo Verde,0.960709989070892,1990,youth literacy
+Mauritius,1.01101994514465,1990,youth literacy
+Zambia,0.974059998989105,1990,youth literacy
+Burkina Faso,0.529089987277985,1991,youth literacy
+Botswana,1.06885004043579,1991,youth literacy
+Namibia,1.0521399974823,1991,youth literacy
+Nigeria,0.768079996109009,1991,youth literacy
+Sao Tome and Principe,0.958710014820099,1991,youth literacy
+Uganda,0.817409992218018,1991,youth literacy
+Benin,0.484129995107651,1992,youth literacy
+Zimbabwe,0.97733998298645,1992,youth literacy
+Gabon,0.975709974765778,1993,youth literacy
+Chad,0.340840011835098,1993,youth literacy
+Ethiopia,0.714709997177124,1994,youth literacy
+Libya,0.968620002269745,1994,youth literacy
+Morocco,0.644339978694916,1994,youth literacy
+Seychelles,1.00650000572205,1994,youth literacy
+Burkina Faso,0.548910021781921,1996,youth literacy
+"Egypt, Arab Rep.",0.8473299741745,1996,youth literacy
+Guinea,0.305370002985001,1996,youth literacy
+South Africa,1.00838005542755,1996,youth literacy
+Mozambique,0.614830017089844,1997,youth literacy
+Cote d'Ivoire,0.732479989528656,1998,youth literacy
+Mali,0.522790014743805,1998,youth literacy
+Malawi,0.861249983310699,1998,youth literacy
+Zambia,0.912020027637482,1999,youth literacy
+Burundi,0.916450023651123,2000,youth literacy
+Central African Republic,0.675249993801117,2000,youth literacy
+Cote d'Ivoire,0.735809981822968,2000,youth literacy
+Cameroon,0.881699979305267,2000,youth literacy
+Comoros,0.92383998632431,2000,youth literacy
+Cabo Verde,1.01573002338409,2000,youth literacy
+Ethiopia,0.546189606189728,2000,youth literacy
+Ghana,0.862309992313385,2000,youth literacy
+"Gambia, The",0.643360018730164,2000,youth literacy
+Guinea-Bissau,0.613669991493225,2000,youth literacy
+Equatorial Guinea,0.989920020103455,2000,youth literacy
+Kenya,0.985350012779236,2000,youth literacy
+Lesotho,1.12995994091034,2000,youth literacy
+Madagascar,0.938499987125397,2000,youth literacy
+Mauritania,0.819159984588623,2000,youth literacy
+Mauritius,1.01719999313354,2000,youth literacy
+Namibia,1.02636516094208,2000,youth literacy
+Rwanda,0.978860020637512,2000,youth literacy
+Sudan,0.844060003757477,2000,youth literacy
+Eswatini,1.02419996261597,2000,youth literacy
+Chad,0.417259991168976,2000,youth literacy
+Togo,0.758539974689484,2000,youth literacy
+Angola,0.754170000553131,2001,youth literacy
+Benin,0.52144730091095,2001,youth literacy
+"Congo, Dem. Rep.",0.809050023555756,2001,youth literacy
+Namibia,1.02653002738953,2001,youth literacy
+Niger,0.542639970779419,2001,youth literacy
+Sao Tome and Principe,0.988319993019104,2001,youth literacy
+Benin,0.56139999628067,2002,youth literacy
+Algeria,0.915759980678558,2002,youth literacy
+Eritrea,0.805570006370544,2002,youth literacy
+Senegal,0.70048999786377,2002,youth literacy
+Seychelles,1.00608003139496,2002,youth literacy
+Tanzania,0.94173002243042,2002,youth literacy
+Uganda,0.886240005493164,2002,youth literacy
+Zambia,0.853150010108948,2002,youth literacy
+Burkina Faso,0.646449983119965,2003,youth literacy
+Botswana,1.036749958992,2003,youth literacy
+Ghana,0.86174350976944,2003,youth literacy
+Guinea,0.572950005531311,2003,youth literacy
+Mozambique,0.672919988632202,2003,youth literacy
+Nigeria,0.774489998817444,2003,youth literacy
+Cameroon,0.831183254718781,2004,youth literacy
+Ethiopia,0.618969976902008,2004,youth literacy
+Morocco,0.748650014400482,2004,youth literacy
+Sierra Leone,0.626649975776672,2004,youth literacy
+Chad,0.573000013828278,2004,youth literacy
+Tunisia,0.956900000572205,2004,youth literacy
+Burkina Faso,0.655849993228912,2005,youth literacy
+"Congo, Rep.",0.799350023269653,2005,youth literacy
+"Egypt, Arab Rep.",0.874509990215302,2005,youth literacy
+Ethiopia,0.595860004425049,2005,youth literacy
+Guinea,0.375759452581406,2005,youth literacy
+Madagascar,0.95949000120163,2005,youth literacy
+Niger,0.442279994487762,2005,youth literacy
+Rwanda,0.937981307506561,2005,youth literacy
+Senegal,0.592199206352234,2005,youth literacy
+Benin,0.561110019683838,2006,youth literacy
+Burkina Faso,0.666320025920868,2006,youth literacy
+Algeria,0.9444500207901,2006,youth literacy
+"Egypt, Arab Rep.",0.930509984493256,2006,youth literacy
+Mali,0.650030016899109,2006,youth literacy
+Niger,0.338279843330383,2006,youth literacy
+Nigeria,0.896309971809387,2006,youth literacy
+Senegal,0.766279995441437,2006,youth literacy
+Eswatini,1.05097246170044,2006,youth literacy
+Togo,0.800459980964661,2006,youth literacy
+Uganda,0.929679989814758,2006,youth literacy
+Burkina Faso,0.708809971809387,2007,youth literacy
+Cameroon,0.86651998758316,2007,youth literacy
+"Congo, Dem. Rep.",0.674600005149841,2007,youth literacy
+Ethiopia,0.747030019760132,2007,youth literacy
+Kenya,0.981100022792816,2007,youth literacy
+Liberia,0.585810005664825,2007,youth literacy
+Mauritania,0.718559980392456,2007,youth literacy
+Namibia,1.08141005039215,2007,youth literacy
+Tunisia,0.968159973621368,2007,youth literacy
+South Africa,1.01066994667053,2007,youth literacy
+Zambia,0.831730008125305,2007,youth literacy
+Burundi,0.860490024089813,2008,youth literacy
+Algeria,0.958150029182434,2008,youth literacy
+Eritrea,0.904590010643005,2008,youth literacy
+Morocco,0.814610004425049,2008,youth literacy
+Nigeria,0.766929984092712,2008,youth literacy
+Sudan,0.913339972496033,2008,youth literacy
+Sierra Leone,0.56129378080368,2008,youth literacy
+South Sudan,0.67101001739502,2008,youth literacy
+Sao Tome and Principe,0.931140005588531,2008,youth literacy
+Tunisia,0.973060011863708,2008,youth literacy
+Lesotho,1.19446003437042,2009,youth literacy
+Morocco,0.831849992275238,2009,youth literacy
+Madagascar,0.970449984073639,2009,youth literacy
+Mozambique,0.708159983158112,2009,youth literacy
+Senegal,0.753340005874634,2009,youth literacy
+Togo,0.850820004940033,2009,youth literacy
+South Africa,1.00913000106812,2009,youth literacy
+Burundi,0.804621279239655,2010,youth literacy
+Burkina Faso,0.579081594944,2010,youth literacy
+Central African Republic,0.552049994468689,2010,youth literacy
+Cameroon,0.894890010356903,2010,youth literacy
+"Egypt, Arab Rep.",0.930980026721954,2010,youth literacy
+Ghana,0.942520022392273,2010,youth literacy
+Guinea,0.580209970474243,2010,youth literacy
+Equatorial Guinea,1.00618004798889,2010,youth literacy
+Mali,0.602180004119873,2010,youth literacy
+Malawi,0.94226998090744,2010,youth literacy
+Rwanda,1.01684999465942,2010,youth literacy
+Eswatini,1.0270299911499,2010,youth literacy
+Seychelles,1.00801002979279,2010,youth literacy
+Tunisia,0.97843998670578,2010,youth literacy
+Tanzania,0.951370000839233,2010,youth literacy
+Uganda,0.953549981117249,2010,youth literacy
+South Africa,1.00518000125885,2010,youth literacy
+Zambia,0.948610007762909,2010,youth literacy
+Cameroon,0.844569683074951,2011,youth literacy
+"Congo, Rep.",0.898029983043671,2011,youth literacy
+Ethiopia,0.670713007450104,2011,youth literacy
+Morocco,0.833440005779266,2011,youth literacy
+Mali,0.527310013771057,2011,youth literacy
+Mauritius,1.00899994373322,2011,youth literacy
+Namibia,1.01979994773865,2011,youth literacy
+Senegal,0.796779990196228,2011,youth literacy
+Togo,0.836530029773712,2011,youth literacy
+Tunisia,0.98047000169754,2011,youth literacy
+South Africa,1.00727999210358,2011,youth literacy
+Zimbabwe,1.02751004695892,2011,youth literacy
+Benin,0.640250027179718,2012,youth literacy
+Cote d'Ivoire,0.66430002450943,2012,youth literacy
+"Congo, Dem. Rep.",0.84196001291275,2012,youth literacy
+Comoros,0.942889988422394,2012,youth literacy
+Cabo Verde,1.00534999370575,2012,youth literacy
+"Egypt, Arab Rep.",0.931739985942841,2012,youth literacy
+Gabon,1.0228099822998,2012,youth literacy
+Guinea,0.519458770751953,2012,youth literacy
+Morocco,0.927680015563965,2012,youth literacy
+Madagascar,0.960359990596771,2012,youth literacy
+Niger,0.651679992675781,2012,youth literacy
+Sao Tome and Principe,0.992070019245148,2012,youth literacy
+Tunisia,0.976999998092651,2012,youth literacy
+Tanzania,0.973309993743896,2012,youth literacy
+Uganda,0.952130019664764,2012,youth literacy
+South Africa,1.0077999830246,2012,youth literacy
+Botswana,1.03413999080658,2013,youth literacy
+"Congo, Dem. Rep.",0.827355206012726,2013,youth literacy
+"Egypt, Arab Rep.",0.964510023593903,2013,youth literacy
+"Gambia, The",0.850629985332489,2013,youth literacy
+Liberia,0.754626929759979,2013,youth literacy
+Mauritania,0.916840016841888,2013,youth literacy
+Namibia,1.04173171520233,2013,youth literacy
+Nigeria,0.821051418781281,2013,youth literacy
+Senegal,0.814189970493317,2013,youth literacy
+Sierra Leone,0.788110017776489,2013,youth literacy
+Angola,0.831759989261627,2014,youth literacy
+Burundi,0.878870010375977,2014,youth literacy
+Burkina Faso,0.771749973297119,2014,youth literacy
+Cote d'Ivoire,0.795610010623932,2014,youth literacy
+Ghana,0.917516708374023,2014,youth literacy
+Guinea,0.653150022029877,2014,youth literacy
+Guinea-Bissau,0.698329985141754,2014,youth literacy
+Kenya,0.990769982337952,2014,youth literacy
+Lesotho,1.15283000469208,2014,youth literacy
+Malawi,0.930800020694733,2014,youth literacy
+Rwanda,1.02838003635406,2014,youth literacy
+Senegal,0.804728031158447,2014,youth literacy
+Togo,0.763796448707581,2014,youth literacy
+Tunisia,0.991609990596771,2014,youth literacy
+South Africa,1.00406002998352,2014,youth literacy
+Zimbabwe,1.06006002426147,2014,youth literacy
+Cabo Verde,1.01160001754761,2015,youth literacy
+"Gambia, The",0.910989999771118,2015,youth literacy
+Mali,0.647790014743805,2015,youth literacy
+Mozambique,0.792580008506775,2015,youth literacy
+Malawi,1.01217997074127,2015,youth literacy
+Rwanda,1.01726150512695,2015,youth literacy
+Chad,0.501460015773773,2015,youth literacy
+Togo,0.873969972133636,2015,youth literacy
+Tanzania,0.972739994525909,2015,youth literacy
+South Africa,1.00548994541168,2015,youth literacy
+"Congo, Dem. Rep.",0.87635999917984,2016,youth literacy
+Ethiopia,0.694763362407684,2016,youth literacy
+Chad,0.550149977207184,2016,youth literacy
+Burundi,0.940509974956512,2017,youth literacy
+"Egypt, Arab Rep.",0.970130026340485,2017,youth literacy
+Ethiopia,0.978940010070801,2017,youth literacy
+Liberia,0.702600002288818,2017,youth literacy
+Mozambique,0.847649991512299,2017,youth literacy
+Senegal,0.840250015258789,2017,youth literacy
+South Africa,1.03219997882843,2017,youth literacy
+Burkina Faso,0.852630019187927,2018,youth literacy
+Central African Republic,0.600499987602234,2018,youth literacy
+Cameroon,0.939469993114471,2018,youth literacy
+Algeria,0.996500015258789,2018,youth literacy
+Eritrea,0.988229990005493,2018,youth literacy
+Guinea,0.624199986457825,2018,youth literacy
+Madagascar,0.982659995555878,2018,youth literacy
+Mali,0.750400006771088,2018,youth literacy
+Nigeria,0.836749970912933,2018,youth literacy
+Rwanda,1.04718005657196,2018,youth literacy
+Sudan,1.01333999633789,2018,youth literacy
+South Sudan,0.978190004825592,2018,youth literacy
+Tunisia,1.0470358133316,2018,youth literacy
+Uganda,1.01249003410339,2018,youth literacy
+Burkina Faso,0.851629972457886,2019,youth literacy
+Central African Republic,0.65741103887558,2019,youth literacy
+Cote d'Ivoire,0.823239982128143,2019,youth literacy
+Algeria,1.23015689849854,2019,youth literacy
+Liberia,0.833236753940582,2019,youth literacy
+Senegal,0.856802582740784,2019,youth literacy
+Sierra Leone,0.81524384021759,2019,youth literacy
+Sao Tome and Principe,1.09689700603485,2019,youth literacy
+Chad,0.397658288478851,2019,youth literacy
+Togo,0.912280023097992,2019,youth literacy
+South Africa,1.00853002071381,2019,youth literacy
+Zimbabwe,1.11795163154602,2019,youth literacy
+Central African Republic,0.612200021743774,2020,youth literacy
+Cameroon,0.945840001106262,2020,youth literacy
+Ghana,0.99753999710083,2020,youth literacy
+Mali,0.696250021457672,2020,youth literacy
+Mozambique,0.84375,2020,youth literacy
+Malawi,1.43077409267426,2020,youth literacy
+Rwanda,1.00657963752747,2020,youth literacy
+Eswatini,1.02390003204346,2020,youth literacy
+Seychelles,1.0110399723053,2020,youth literacy
+Zambia,0.99251002073288,2020,youth literacy
+"Congo, Rep.",0.933210015296936,2021,youth literacy
+Guinea,0.688210010528564,2021,youth literacy
+Madagascar,0.955361247062683,2021,youth literacy
+Mauritania,0.962909996509552,2021,youth literacy
+Mauritius,1.00541996955872,2021,youth literacy
+Namibia,1.02235996723175,2021,youth literacy
+Rwanda,1.07641005516052,2021,youth literacy
+South Africa,1.0160299539566,2021,youth literacy
+Angola,0.939459979534149,2022,youth literacy
+Burundi,0.991379976272583,2022,youth literacy
+Benin,0.802990019321442,2022,youth literacy
+Burkina Faso,0.930169999599457,2022,youth literacy
+"Congo, Dem. Rep.",0.940739989280701,2022,youth literacy
+Comoros,1.02586996555328,2022,youth literacy
+Cabo Verde,1.01007997989655,2022,youth literacy
+"Egypt, Arab Rep.",0.989430010318756,2022,youth literacy
+Gabon,1.04286003112793,2022,youth literacy
+"Gambia, The",1.12796998023987,2022,youth literacy
+Guinea-Bissau,0.830900013446808,2022,youth literacy
+Kenya,1.01725995540619,2022,youth literacy
+Lesotho,1.12322998046875,2022,youth literacy
+Morocco,0.997870028018951,2022,youth literacy
+Madagascar,0.998139977455139,2022,youth literacy
+Malawi,1.07729005813599,2022,youth literacy
+Niger,0.723299980163574,2022,youth literacy
+Senegal,0.928529977798462,2022,youth literacy
+Sierra Leone,0.952409982681274,2022,youth literacy
+Somalia,0.8473100066185,2022,youth literacy
+Sao Tome and Principe,1.00416994094849,2022,youth literacy
+Chad,0.740279972553253,2022,youth literacy
+Tunisia,1.00153005123138,2022,youth literacy
+Tanzania,1.01693999767303,2022,youth literacy
+Uganda,1.02558994293213,2022,youth literacy
+Zimbabwe,1.08395004272461,2022,youth literacy
