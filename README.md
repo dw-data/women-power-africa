@@ -1,4 +1,22 @@
-# women-power-africa
+
+# How has an increase in the number of women lawmakers impacted gender equality in Africa?
+
+The number of female representatives has increased since 2000 in parliaments across Africa. Has this positively changed the lives of women?
+
+<i>Idea, data analysis and visualization: Ana Muñoz Padrós</i>
+
+<i>Interviews: Facilited by Jean-Michel Bos and conducted by Ana Muñoz Padrós</i>
+
+<i>Contribution to reporting: Jean-Michel Bos</i>
+
+<i>Writing: Ana Muñoz Padrós</i>
+
+<i>Editing: Gianna-Carina Grün, Dirke Köpp, Milan Gagnon</i>
+
+Read the full articles on DW.com:
+
+
+# Countries
 
 Countries: The selection of African countries has followed the <a href='https://unstats.un.org/unsd/methodology/m49/overview/'> UNSD overview.</a>
 
