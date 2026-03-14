@@ -46,6 +46,12 @@ The two main analysis have been the calculation of means and averages across tim
 
 ## Correlations
 
+A correlation is a kind of statistical relationship between two random variables. Correlation doesn't imply causation or dependency. 
+
+We have used Pearson's correlation coefficient and compared subsets of at least three values each. 
+
+We have considered correlation coefficients of >0.7 and <-0.7 indicative of "strong correlations", as stated by various expert sources including ScienceDirect and the University of Southampton.
+
 ## Other methodological notes
 
 ### Including disaggregated data points
