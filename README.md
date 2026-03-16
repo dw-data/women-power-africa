@@ -36,21 +36,21 @@ We have followed the definitions and categorisations of gender quotas establishe
 
 ### Other markers
 
-Following our hypothesis, we set out our analysis to find correlations between the number of women in parliament and different gender equality markers. These were selected from United Nations SDG 4 (education) and 5 (gender equality), and can be grouped into three axes: education, financial independence, and sexual and bodily autonomy. 
+Following our hypothesis, we set out our analysis to find correlations between the number of women in parliament and different gender equality markers. These were selected from United Nations SDG 4 (education) and SDG 5 (gender equality). They can be grouped into three axes: education, financial independence, and sexual and bodily autonomy. 
 
-Some parameters were pre-selected and eventually discarded from the reporting either because the values were not shares, or because the most recent data was over seven years old. These categories were: access to abortion, right to divorce, belief that FGM should end, gender violence, women can be head of households, female sole owners. 
+Some parameters were pre-selected and eventually discarded from the reporting, either because they were boolean values (true/false), or because the most recent data was over seven years old. The discarded categories were: access to abortion, right to divorce, belief that FGM should end, gender violence, women can be head of households, female sole owners. 
 
 # Methodology
 
-The two main analysis have been the calculation of means and averages across time and countries, and the calculation of correlations.
+The main analyses have been the calculation of means and averages across time and countries, and the calculation of correlations.
 
 ## Correlations
 
-A correlation is a kind of statistical relationship between two random variables. Correlation doesn't imply causation or dependency. 
+A correlation is a statistical relationship between two random variables. Correlation doesn't imply causation or dependency. 
 
-We have used Pearson's correlation coefficient and compared subsets of at least three values each. 
+We have used <a href='https://www.britannica.com/topic/Pearsons-correlation-coefficient'>Pearson's correlation coefficient</a> and compared subsets of at least three values each, by calling .corr() in pandas (see the complete code in the REPO_correlationAll.ipynb notebook).
 
-We have considered correlation coefficients of >0.7 and <-0.7 indicative of "strong correlations", as stated by various expert sources including ScienceDirect and the University of Southampton.
+We have considered correlation coefficients of >0.7 and <-0.7 indicative of "strong correlations", as stated by various expert sources, including ScienceDirect and the University of Southampton.
 
 ## Other methodological notes
 
