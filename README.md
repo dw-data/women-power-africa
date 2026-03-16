@@ -13,7 +13,7 @@ The number of female representatives has increased since 2000 in parliaments acr
 
 <i>Editing: Gianna-Carina Grün, Dirke Köpp, Milan Gagnon</i>
 
-Read the full articles on DW.com:
+Read the full articles on DW.com: <a href='https://www.dw.com/en/more-women-sit-in-african-parliaments-but-equality-eludes/a-76291235'>English</a>
 
 
 # Definition of parameters
