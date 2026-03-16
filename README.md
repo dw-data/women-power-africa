@@ -52,6 +52,94 @@ We have used <a href='https://www.britannica.com/topic/Pearsons-correlation-coef
 
 We have considered correlation coefficients of >0.7 and <-0.7 indicative of "strong correlations", as stated by various expert sources, including ScienceDirect and the University of Southampton.
 
+These are the pairs of variables which had an absolute correlation value of 0.7 or over. Absolute values include positive and negative values. 
+
+<table>
+  <td><b>Marker 1</b></td>
+  <td><b>Marker 2</b></td>
+  <td><b>Countries</b></td>
+  <tr>
+    <td><b>Parliament</b></td>
+    <td>Savings</td>
+    <td>14</td>
+  </tr>
+    <tr>
+    <td>Parliament</td>
+    <td>belief beating</td>
+    <td>11</td>
+  </tr>
+  <tr>
+    <td>Parliament</td>
+    <td>family planning</td>
+    <td>11</td>
+  </tr>
+  <tr>
+    <td>Parliament</td>
+    <td>refuse sex</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>Parliament</td>
+    <td>youth literacy</td>
+    <td>21</td>
+  </tr>
+  <tr>
+    <td><b>Savings</b></td>
+    <td>belief beating</td>
+    <td>1</td>
+  </tr>
+    <tr>
+    <td>Savings</td>
+    <td>family planning</td>
+    <td>1</td>
+  </tr>
+    <tr>
+    <td>Savings</td>
+    <td>refuse sex</td>
+    <td>1</td>
+  </tr>
+    <tr>
+    <td>Savings</td>
+    <td>youth literacy</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><b>belief beating</b></td>
+    <td>family planning</td>
+    <td>14</td>
+  </tr>
+  <tr>
+    <td>belief beating</td>
+    <td>refuse sex</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>belief beating</td>
+    <td>youth literacy</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td><b>family planning</b></td>
+    <td>refuse sex</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>family planning</td>
+    <td>youth literacy</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td><b>refuse sex</b></td>
+    <td>youth literacy</td>
+    <td>3</td>
+  </tr>
+</table>
+
+Following these results, we took a closer look at the parliament - youth education pair:
+
+
+
+
 ## Other methodological notes
 
 ### Including disaggregated data points
@@ -61,7 +149,7 @@ In the cases of 'Women who believe a wife is justified refusing sex with her hus
 ### Other parameters' charts
 Dot ranges visuals show the change in different gender equality indicators across African countries. 
 
-Some countries are not represented because they only have one data point available. They are:
+Some countries are not represented because a single data point was available, preventing comparison. They are:
 
 <b>Domestic violence:</b> Morocco, Tunisia, Niger, South Africa, Benin, Lesotho, Botswana, Sudan, Eswatini, Guinea, South Sudan
 
