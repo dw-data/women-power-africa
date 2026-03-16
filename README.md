@@ -16,7 +16,7 @@ The number of female representatives has increased since 2000 in parliaments acr
 Read the full articles on DW.com:
 
 
-# Definitions of parameters
+# Definition of parameters
 
 ## Countries
 
@@ -24,7 +24,11 @@ The selection of African countries has followed the <a href='https://unstats.un.
 
 ## Gender equality markers
 
+Data from all markers has been collected from the <a href='https://www.worldbank.org/ext/en/home'>World Bank group</a>, as well as trusted sources used by the World Bank, including International IDEA and Demographic and Health Surveys (DHS)
+
 ### Parliament quotas
+
+Women in parliaments are the percentage of parliamentary seats in a single or lower chamber held by women.
 
 We have followed the definitions and categorisations of gender quotas established by <a href='https://www.idea.int/'>International IDEA</a>:
 
@@ -38,11 +42,25 @@ We have followed the definitions and categorisations of gender quotas establishe
 
 Following our hypothesis, we set out our analysis to find correlations between the number of women in parliament and different gender equality markers. These were selected from United Nations SDG 4 (education) and SDG 5 (gender equality). They can be grouped into three axes: education, financial independence, and sexual and bodily autonomy. 
 
+- 'youth literacy': Gender parity index for youth literacy rate is the ratio of females to males ages 15-24 who can both read and write with understanding a short simple statement about their everyday life.  
+
+- 'family planning' or contraception represents the demand for family planning satisfied (% of married women with demand for family planning)
+
+- 'belief beating' represents the percentage of women ages 15-49 who believe a husband/partner is justified in hitting or beating his wife/partner for any reason
+
+- The indicator 'refuse sex' measures the percentage of women aged 15-49 who believe that a wife is justified in refusing to have sex with her husband.
+
+- 'savings' is the percentage of respondents aged 15+ who report saving or setting aside any money at a bank or another type of financial institution in the past year
+
+- 'landowner' is the proportion of women ages 15-49 or men who own land (either alone, jointly, both alone and jointly).
+
 Some parameters were pre-selected and eventually discarded from the reporting, either because they were boolean values (true/false), or because the most recent data was over seven years old. The discarded categories were: access to abortion, right to divorce, belief that FGM should end, gender violence, women can be head of households, female sole owners. 
 
 # Methodology
 
-The main analyses have been the calculation of means and averages across time and countries, and the calculation of correlations.
+The main analyses have been the calculation of averages and medians across time and countries, and the calculation of correlations.
+
+We have chosen to calculate the median, the middle value in a dataset, to avoid the interference of outliers, in the cases where there the dataset presented extreme values.
 
 ## Correlations
 
@@ -88,9 +106,15 @@ These are the pairs of variables which had an absolute correlation value of 0.7 
     <td>belief beating</td>
     <td>1</td>
   </tr>
-    <tr>
+  <tr>
     <td>Savings</td>
     <td>family planning</td>
+    <td>1</td>
+  </tr>
+  </tr>
+  <tr>
+    <td>Savings</td>
+    <td>landowner</td>
     <td>1</td>
   </tr>
     <tr>
@@ -110,6 +134,11 @@ These are the pairs of variables which had an absolute correlation value of 0.7 
   </tr>
   <tr>
     <td>belief beating</td>
+    <td>landowner</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>belief beating</td>
     <td>refuse sex</td>
     <td>6</td>
   </tr>
@@ -125,8 +154,23 @@ These are the pairs of variables which had an absolute correlation value of 0.7 
   </tr>
   <tr>
     <td>family planning</td>
+    <td>landowner</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>family planning</td>
     <td>youth literacy</td>
     <td>7</td>
+  </tr>
+  <tr>
+    <td><b>landowner</b></td>
+    <td>refuse sex</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>landowner</td>
+    <td>youth literacy</td>
+    <td>2</td>
   </tr>
   <tr>
     <td><b>refuse sex</b></td>
@@ -137,8 +181,138 @@ These are the pairs of variables which had an absolute correlation value of 0.7 
 
 Following these results, we took a closer look at the parliament - youth education pair:
 
-
-
+<table>
+  <thead>
+    <tr>
+      <th>Marker 1</th>
+      <th>Marker 2</th>
+      <th>correlation</th>
+      <th>country</th>
+      <th>n_years</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Parliament</td>
+      <td>youth literacy</td>
+      <td>0.753969</td>
+      <td>Algeria</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Parliament</td>
+      <td>youth literacy</td>
+      <td>0.727851</td>
+      <td>Angola</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>Parliament</td>
+      <td>youth literacy</td>
+      <td>0.842234</td>
+      <td>Cameroon</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>Parliament</td>
+      <td>youth literacy</td>
+      <td>0.711675</td>
+      <td>Congo, Dem. Rep.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Parliament</td>
+      <td>youth literacy</td>
+      <td>0.813054</td>
+      <td>Egypt, Arab Rep.</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>Parliament</td>
+      <td>youth literacy</td>
+      <td>0.719760</td>
+      <td>Ethiopia</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>Parliament</td>
+      <td>youth literacy</td>
+      <td>0.819510</td>
+      <td>Gambia, The</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>Parliament</td>
+      <td>youth literacy</td>
+      <td>0.759066</td>
+      <td>Guinea</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>Parliament</td>
+      <td>youth literacy</td>
+      <td>0.795931</td>
+      <td>Guinea-Bissau</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>Parliament</td>
+      <td>youth literacy</td>
+      <td>0.822638</td>
+      <td>Kenya</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>Parliament</td>
+      <td>youth literacy</td>
+      <td>0.879705</td>
+      <td>Morocco</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>Parliament</td>
+      <td>youth literacy</td>
+      <td>0.787982</td>
+      <td>Mozambique</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Parliament</td>
+      <td>youth literacy</td>
+      <td>0.772167</td>
+      <td>Senegal</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>Parliament</td>
+      <td>youth literacy</td>
+      <td>0.779991</td>
+      <td>Tanzania</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>Parliament</td>
+      <td>youth literacy</td>
+      <td>0.754915</td>
+      <td>Tunisia</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>Parliament</td>
+      <td>youth literacy</td>
+      <td>0.822892</td>
+      <td>Uganda</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>Parliament</td>
+      <td>youth literacy</td>
+      <td>0.796708</td>
+      <td>Zimbabwe</td>
+      <td>4</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Other methodological notes
 
